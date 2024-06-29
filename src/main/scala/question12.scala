@@ -1,4 +1,4 @@
-object twelth {
+object question12 {
   def main(args:Array[String]):Unit={
     val purches_amt = 120
 

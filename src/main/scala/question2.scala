@@ -1,4 +1,4 @@
-object second {
+object question2 {
   def main(args:Array[String]):Unit={
     val value = -15
 if(value < -10 || value > 10){

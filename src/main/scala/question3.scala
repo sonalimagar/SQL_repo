@@ -1,4 +1,4 @@
-object Third {
+object question3 {
   def main(args:Array[String]):Unit={
     val number=30
     if(number % 2 != 0 && number % 3 == 0)

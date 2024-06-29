@@ -1,4 +1,4 @@
-object seventeen {
+object question17 {
   def main(args: Array[String]): Unit ={
     val age =40
 

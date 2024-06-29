@@ -1,4 +1,4 @@
-object Eighth {
+object question8 {
   def main(args: Array[String]): Unit = {
     val age = 63
     if (age > 60) {

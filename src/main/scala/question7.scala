@@ -1,4 +1,4 @@
-object Seventh {
+object question7 {
   def main(args:Array[String]):Unit={
     val number= -7
     if (number < 1 && number % 2 !=0){

@@ -1,4 +1,4 @@
-object fortheenth {
+object question14 {
   def main(args: Array[String]): Unit = {
     val num = -6
     if(num > 1){

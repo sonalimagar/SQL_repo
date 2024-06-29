@@ -1,4 +1,4 @@
-object thirty {
+object question30 {
   def main(args: Array[String]): Unit ={
     val age = 22
     val free_trial = true

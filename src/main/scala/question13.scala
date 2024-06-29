@@ -1,4 +1,4 @@
-object thirteenth {
+object question13 {
   def main(args: Array[String]): Unit = {
     val number = 24
 
