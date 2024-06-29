@@ -9,6 +9,8 @@ object Eighth {
     }
     else {
       println("not eligible  any discount")
+
+      println("hello world")
     }
   }
 }
